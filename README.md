@@ -1,4 +1,4 @@
-# 👋 Hi, I'm igarbayo!
+# 👋 Hi, I'm Ignacio!
 
 🎓 **Double Major Student in Mathematics & Computer Engineering**
 
