@@ -21,7 +21,7 @@ Every project I work on is a testament to my growth and curiosity. I’m proud o
 - Exploring the world of machine learning and AI
 - Constantly learning and sharing knowledge
 
-[![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=igarbayo)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igarbayo&show_icons=true&theme=dark)
 
 ---
 
