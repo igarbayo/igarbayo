@@ -21,7 +21,7 @@ Every project I work on is a testament to my growth and curiosity. I’m proud o
 - Exploring the world of machine learning and AI
 - Constantly learning and sharing knowledge
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igarbayo&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=igarbayo&show_icons=true&theme=dark)
 
 ---
 
