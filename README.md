@@ -30,6 +30,7 @@ I am currently pursuing a **Double Degree in Computer Engineering and Mathematic
 - **Data**: R, Matlab, Maple, PostgreSQL, MongoDB, RabbitMQ, MQTT, Kafka.
 - **Scripting**: Bash, Python.
 - **DevOps**: Docker, Kubernetes, Jenkins.
+
 👪 Open to collaborating on **open-source projects** and innovative technical challenges  
 🎮 Active participant in **hackathons and programming competitions**
 
