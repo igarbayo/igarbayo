@@ -26,6 +26,22 @@ I am currently pursuing a **Double Degree in Computer Engineering and Mathematic
 
 ### Interests & Skills 🔎
 
+### 🧠 Programming languages and frameworks
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+
+
 - **Programming languages and frameworks**: C, Java, Python, Fortran, SQL, JavaScript, TypeScript, HTML, CSS, Node.JS, NestJS, Angular, Next.js.
 - **Data**: R, Matlab, Maple, PostgreSQL, MongoDB, RabbitMQ, MQTT, Kafka.
 - **Scripting**: Bash, Python.
