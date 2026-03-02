@@ -18,7 +18,7 @@ I'm passionate about the intersection of math, technology, and innovation. As a 
 🚰 I am currently building an **integrated management system to prevent and reduce Non-Revenue Water (NRW)** for municipalities in **Galicia**, combining **Machine Learning techniques** with **IoT device communication** and web development 👉 **[egswater.com](https://egswater.com)**
 
 🏥 **MedicAir** (Hacktoberfest 2025) — An **AI-powered chatbot** for **MongoDB database management**, using **MQTT** as the underlying communication protocol.  
-📱 **PWS** (HackETSE 2025) — A **decentralized computing system** developed in **JavaScript**, designed to distribute computational workloads across **mobile devices**, enabling server decentralization and a new life for potentially old devices.
+📱 **PWS** (HackETSE 2025) — A **decentralized computing system** developed in **JavaScript**, designed to distribute computational workloads across **mobile devices**, enabling server decentralization and a new life for potentially old devices.  
 🛰️ **BFG-I** (Winners HackUDC 2026) — A satellite-to-ground **DOOM** streaming system over simulated LEO links built in **C**, using H.264 video compression, RTP/UDP packetization, and a lock-free ring buffer to deliver **interactive gameplay** under extreme bandwidth and latency constraints.
 
 🔗 You can find more details about my work and projects directly in my **GitHub repositories**.
