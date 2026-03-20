@@ -40,6 +40,6 @@ A data-driven algorithm designed to detect insider trading within prediction mar
 
 ### Github Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=igarbayo)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=igarbayo&theme=holi)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=holi)
