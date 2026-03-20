@@ -2,21 +2,15 @@
 
 Penultimate year double major student in **Mathematics & Computer Engineering** at **[USC](https://www.usc.gal/en/studies/degrees/engineering-and-architecture/double-degree-informatics-engineering-and-mathematics-2nd-edition)**
 
----
-
 ## Tech Stack ⚙️
 
 - **Languages, frameworks and tecnhologies**: C, Java, Python, Fortran, SQL, JavaScript, TypeScript, HTML, CSS, Node.JS, NestJS, Angular, Next.js, R, PostgreSQL, MongoDB, RabbitMQ, MQTT, Kafka.
 - **Tools** (data, scripting, DevOps): Matlab, Maple, Bash, Docker, Kubernetes, Jenkins.
 
----
-
 ## Work Experience 💼
 
 - During Summer 2025, I worked as a **Web Development Intern** at **IGM Web (Grupo Hotusa)**, handling the full lyfecicle of a monitoring internal tool to observe in real time the performance of a web-based solution that handles online travel agencies requests.
 - During Summer 2024, I worked as a **Machine Learning Intern** at **IDIS** (Instituto de Investigación Sanitaria de Santiago de Compostela), applying ML classification techniques, including ensemble classifiers, with the goal of predicting onset of breast cancer.
-
----
 
 ## Main Projects 📁
 
@@ -35,8 +29,6 @@ A satellite-to-ground **DOOM** streaming system over simulated LEO links built i
 ### CFG (insider detection) (not public)
 
 A data-driven algorithm designed to detect insider trading within prediction markets, fully engineered in Python. The system architecture is optimized for high performance, utilizing Redis Queues for real-time communication and Celery for parallel data processing.
-
----
 
 ## Github Stats
 
