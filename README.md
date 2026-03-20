@@ -36,3 +36,8 @@ A satellite-to-ground **DOOM** streaming system over simulated LEO links built i
 
 A data-driven algorithm designed to detect insider trading within prediction markets, fully engineered in Python. The system architecture is optimized for high performance, utilizing Redis Queues for real-time communication and Celery for parallel data processing.
 
+---
+
+### Github Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=igarbayo)
